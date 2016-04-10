@@ -1,0 +1,22 @@
+flightlist=[
+	{
+		"flightcode":"AC10",
+		"carriername":"British Airways",
+	},
+	{
+		"flightcode":"AC11",
+		"carriername":"British Airways",
+	},
+	{
+		"flightcode":"AC12",
+		"carriername":"British Airways",
+	},
+	{
+		"flightcode":"AC13",
+		"carriername":"British Airways",
+	},
+	{
+		"flightcode":"AC14",
+		"carriername":"British Airways",
+	}
+	]
